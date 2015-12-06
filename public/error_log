@@ -1,0 +1,79 @@
+[01-Aug-2015 21:01:27 UTC] PHP Parse error:  syntax error, unexpected ''=>'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/gobusine/public_html/gobusiness/storage/framework/views/b6cedc82c64af19c506e2817be015bcb on line 86
+[08-Aug-2015 04:08:28 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/gobusine/public_html/gobusiness/app/Http/Controllers/AuthController.php on line 50
+[08-Aug-2015 04:09:07 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/gobusine/public_html/gobusiness/app/Http/Controllers/AuthController.php on line 50
+[20-Aug-2015 18:33:22 UTC] PHP Parse error:  syntax error, unexpected ''observacion_del_' (T_ENCAPSED_AND_WHITESPACE) in /home/gobusine/public_html/gobusiness/app/Http/Controllers/ReferidoController.php on line 271
+[25-Aug-2015 18:56:38 UTC] PHP Parse error:  syntax error, unexpected '@' in /home/gobusine/public_html/gobusiness/storage/framework/views/977dd6dd52b258d7a94abd4972e780ad on line 14
+[25-Aug-2015 18:57:01 UTC] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home/gobusine/public_html/gobusiness/storage/framework/views/977dd6dd52b258d7a94abd4972e780ad on line 14
+[25-Aug-2015 18:57:03 UTC] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home/gobusine/public_html/gobusiness/storage/framework/views/977dd6dd52b258d7a94abd4972e780ad on line 14
+[29-Aug-2015 02:06:09 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/gobusine/public_html/gobusiness/storage/framework/views/b6cedc82c64af19c506e2817be015bcb on line 48
+[29-Aug-2015 02:07:24 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/gobusine/public_html/gobusiness/storage/framework/views/b6cedc82c64af19c506e2817be015bcb on line 48
+[29-Aug-2015 02:08:05 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/gobusine/public_html/gobusiness/storage/framework/views/b6cedc82c64af19c506e2817be015bcb on line 48
+[29-Aug-2015 02:08:06 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/gobusine/public_html/gobusiness/storage/framework/views/b6cedc82c64af19c506e2817be015bcb on line 48
+[29-Aug-2015 02:08:07 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/gobusine/public_html/gobusiness/storage/framework/views/b6cedc82c64af19c506e2817be015bcb on line 48
+[29-Aug-2015 02:09:20 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/gobusine/public_html/gobusiness/storage/framework/views/b6cedc82c64af19c506e2817be015bcb on line 48
+[29-Aug-2015 02:09:31 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/gobusine/public_html/gobusiness/storage/framework/views/b6cedc82c64af19c506e2817be015bcb on line 48
+[29-Aug-2015 02:09:32 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/gobusine/public_html/gobusiness/storage/framework/views/b6cedc82c64af19c506e2817be015bcb on line 48
+[29-Aug-2015 02:09:32 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/gobusine/public_html/gobusiness/storage/framework/views/b6cedc82c64af19c506e2817be015bcb on line 48
+[29-Aug-2015 02:09:33 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/gobusine/public_html/gobusiness/storage/framework/views/b6cedc82c64af19c506e2817be015bcb on line 48
+[29-Aug-2015 02:09:34 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/gobusine/public_html/gobusiness/storage/framework/views/b6cedc82c64af19c506e2817be015bcb on line 48
+[29-Aug-2015 02:09:34 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/gobusine/public_html/gobusiness/storage/framework/views/b6cedc82c64af19c506e2817be015bcb on line 48
+[29-Aug-2015 02:09:35 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/gobusine/public_html/gobusiness/storage/framework/views/b6cedc82c64af19c506e2817be015bcb on line 48
+[29-Aug-2015 02:09:35 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/gobusine/public_html/gobusiness/storage/framework/views/b6cedc82c64af19c506e2817be015bcb on line 48
+[29-Aug-2015 02:09:35 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/gobusine/public_html/gobusiness/storage/framework/views/b6cedc82c64af19c506e2817be015bcb on line 48
+[29-Aug-2015 02:09:36 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/gobusine/public_html/gobusiness/storage/framework/views/b6cedc82c64af19c506e2817be015bcb on line 48
+[29-Aug-2015 02:09:36 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/gobusine/public_html/gobusiness/storage/framework/views/b6cedc82c64af19c506e2817be015bcb on line 48
+[29-Aug-2015 02:09:36 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/gobusine/public_html/gobusiness/storage/framework/views/b6cedc82c64af19c506e2817be015bcb on line 48
+[29-Aug-2015 02:09:37 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/gobusine/public_html/gobusiness/storage/framework/views/b6cedc82c64af19c506e2817be015bcb on line 48
+[29-Aug-2015 02:10:05 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/gobusine/public_html/gobusiness/storage/framework/views/b6cedc82c64af19c506e2817be015bcb on line 48
+[29-Aug-2015 02:10:07 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/gobusine/public_html/gobusiness/storage/framework/views/b6cedc82c64af19c506e2817be015bcb on line 48
+[29-Aug-2015 02:10:07 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/gobusine/public_html/gobusiness/storage/framework/views/b6cedc82c64af19c506e2817be015bcb on line 48
+[29-Aug-2015 02:10:07 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/gobusine/public_html/gobusiness/storage/framework/views/b6cedc82c64af19c506e2817be015bcb on line 48
+[29-Aug-2015 02:10:08 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/gobusine/public_html/gobusiness/storage/framework/views/b6cedc82c64af19c506e2817be015bcb on line 48
+[29-Aug-2015 02:10:08 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/gobusine/public_html/gobusiness/storage/framework/views/b6cedc82c64af19c506e2817be015bcb on line 48
+[29-Aug-2015 02:10:08 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/gobusine/public_html/gobusiness/storage/framework/views/b6cedc82c64af19c506e2817be015bcb on line 48
+[29-Aug-2015 02:10:08 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/gobusine/public_html/gobusiness/storage/framework/views/b6cedc82c64af19c506e2817be015bcb on line 48
+[29-Aug-2015 02:10:09 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/gobusine/public_html/gobusiness/storage/framework/views/b6cedc82c64af19c506e2817be015bcb on line 48
+[29-Aug-2015 02:10:09 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/gobusine/public_html/gobusiness/storage/framework/views/b6cedc82c64af19c506e2817be015bcb on line 48
+[29-Aug-2015 02:10:09 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/gobusine/public_html/gobusiness/storage/framework/views/b6cedc82c64af19c506e2817be015bcb on line 48
+[29-Aug-2015 02:10:10 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/gobusine/public_html/gobusiness/storage/framework/views/b6cedc82c64af19c506e2817be015bcb on line 48
+[29-Aug-2015 02:10:10 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/gobusine/public_html/gobusiness/storage/framework/views/b6cedc82c64af19c506e2817be015bcb on line 48
+[29-Aug-2015 02:10:10 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/gobusine/public_html/gobusiness/storage/framework/views/b6cedc82c64af19c506e2817be015bcb on line 48
+[29-Aug-2015 02:10:12 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/gobusine/public_html/gobusiness/storage/framework/views/b6cedc82c64af19c506e2817be015bcb on line 48
+[29-Aug-2015 02:10:13 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/gobusine/public_html/gobusiness/storage/framework/views/b6cedc82c64af19c506e2817be015bcb on line 48
+[29-Aug-2015 02:10:13 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/gobusine/public_html/gobusiness/storage/framework/views/b6cedc82c64af19c506e2817be015bcb on line 48
+[29-Aug-2015 02:10:13 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/gobusine/public_html/gobusiness/storage/framework/views/b6cedc82c64af19c506e2817be015bcb on line 48
+[29-Aug-2015 02:10:13 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/gobusine/public_html/gobusiness/storage/framework/views/b6cedc82c64af19c506e2817be015bcb on line 48
+[29-Aug-2015 02:10:13 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/gobusine/public_html/gobusiness/storage/framework/views/b6cedc82c64af19c506e2817be015bcb on line 48
+[29-Aug-2015 02:10:14 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/gobusine/public_html/gobusiness/storage/framework/views/b6cedc82c64af19c506e2817be015bcb on line 48
+[29-Aug-2015 02:10:14 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/gobusine/public_html/gobusiness/storage/framework/views/b6cedc82c64af19c506e2817be015bcb on line 48
+[29-Aug-2015 02:10:15 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/gobusine/public_html/gobusiness/storage/framework/views/b6cedc82c64af19c506e2817be015bcb on line 48
+[29-Aug-2015 02:10:15 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/gobusine/public_html/gobusiness/storage/framework/views/b6cedc82c64af19c506e2817be015bcb on line 48
+[29-Aug-2015 02:10:15 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/gobusine/public_html/gobusiness/storage/framework/views/b6cedc82c64af19c506e2817be015bcb on line 48
+[29-Aug-2015 02:10:16 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/gobusine/public_html/gobusiness/storage/framework/views/b6cedc82c64af19c506e2817be015bcb on line 48
+[29-Aug-2015 02:10:16 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/gobusine/public_html/gobusiness/storage/framework/views/b6cedc82c64af19c506e2817be015bcb on line 48
+[29-Aug-2015 02:10:16 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/gobusine/public_html/gobusiness/storage/framework/views/b6cedc82c64af19c506e2817be015bcb on line 48
+[29-Aug-2015 02:11:16 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/gobusine/public_html/gobusiness/storage/framework/views/b6cedc82c64af19c506e2817be015bcb on line 48
+[29-Aug-2015 02:11:17 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/gobusine/public_html/gobusiness/storage/framework/views/b6cedc82c64af19c506e2817be015bcb on line 48
+[29-Aug-2015 02:11:18 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/gobusine/public_html/gobusiness/storage/framework/views/b6cedc82c64af19c506e2817be015bcb on line 48
+[29-Aug-2015 02:11:18 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/gobusine/public_html/gobusiness/storage/framework/views/b6cedc82c64af19c506e2817be015bcb on line 48
+[29-Aug-2015 02:11:18 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/gobusine/public_html/gobusiness/storage/framework/views/b6cedc82c64af19c506e2817be015bcb on line 48
+[29-Aug-2015 02:11:18 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/gobusine/public_html/gobusiness/storage/framework/views/b6cedc82c64af19c506e2817be015bcb on line 48
+[29-Aug-2015 02:11:19 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/gobusine/public_html/gobusiness/storage/framework/views/b6cedc82c64af19c506e2817be015bcb on line 48
+[29-Aug-2015 02:11:19 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/gobusine/public_html/gobusiness/storage/framework/views/b6cedc82c64af19c506e2817be015bcb on line 48
+[29-Aug-2015 02:11:19 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/gobusine/public_html/gobusiness/storage/framework/views/b6cedc82c64af19c506e2817be015bcb on line 48
+[29-Aug-2015 02:11:20 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/gobusine/public_html/gobusiness/storage/framework/views/b6cedc82c64af19c506e2817be015bcb on line 48
+[29-Aug-2015 02:11:21 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/gobusine/public_html/gobusiness/storage/framework/views/b6cedc82c64af19c506e2817be015bcb on line 48
+[29-Aug-2015 02:11:21 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/gobusine/public_html/gobusiness/storage/framework/views/b6cedc82c64af19c506e2817be015bcb on line 48
+[29-Aug-2015 02:13:00 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/gobusine/public_html/gobusiness/storage/framework/views/b6cedc82c64af19c506e2817be015bcb on line 48
+[29-Aug-2015 02:13:16 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/gobusine/public_html/gobusiness/storage/framework/views/b6cedc82c64af19c506e2817be015bcb on line 48
+[29-Aug-2015 02:13:22 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/gobusine/public_html/gobusiness/storage/framework/views/b6cedc82c64af19c506e2817be015bcb on line 48
+[29-Aug-2015 02:17:27 UTC] PHP Parse error:  syntax error, unexpected '']), array_except(get_defined_' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/gobusine/public_html/gobusiness/storage/framework/views/b6cedc82c64af19c506e2817be015bcb on line 170
+[30-Aug-2015 06:06:34 UTC] PHP Parse error:  syntax error, unexpected ''ACTIVO'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/gobusine/public_html/gobusiness/app/Http/Controllers/ReferidoController.php on line 63
+[30-Aug-2015 06:07:01 UTC] PHP Parse error:  syntax error, unexpected ''ACTIVO'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/gobusine/public_html/gobusiness/app/Http/Controllers/ReferidoController.php on line 63
+[30-Aug-2015 06:13:33 UTC] PHP Parse error:  syntax error, unexpected ''=>'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/gobusine/public_html/gobusiness/storage/framework/views/b6cedc82c64af19c506e2817be015bcb on line 89
+[31-Aug-2015 21:02:56 UTC] PHP Parse error:  syntax error, unexpected ''observacion'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/gobusine/public_html/gobusiness/app/Http/Controllers/Pdf_R_IController.php on line 52
+[31-Aug-2015 21:03:22 UTC] PHP Parse error:  syntax error, unexpected ''observacion'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/gobusine/public_html/gobusiness/app/Http/Controllers/Pdf_R_IController.php on line 52
+[31-Aug-2015 21:03:24 UTC] PHP Parse error:  syntax error, unexpected ''observacion'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/gobusine/public_html/gobusiness/app/Http/Controllers/Pdf_R_IController.php on line 52
+[01-Sep-2015 01:41:14 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Redirect' not found in /home/gobusine/public_html/gobusiness/app/Http/Controllers/AuthController.php on line 31
+[01-Sep-2015 01:43:16 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Redirect' not found in /home/gobusine/public_html/gobusiness/app/Http/Controllers/AuthController.php on line 31
+[01-Sep-2015 01:46:39 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Redirect' not found in /home/gobusine/public_html/gobusiness/app/Http/Controllers/AuthController.php on line 31
